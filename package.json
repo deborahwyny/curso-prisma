@@ -1,0 +1,26 @@
+{
+  "name": "curso-prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deborahwyny/curso-prisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deborahwyny/curso-prisma/issues"
+  },
+  "homepage": "https://github.com/deborahwyny/curso-prisma#readme",
+  "devDependencies": {
+    "prisma": "^5.3.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.3.1"
+  }
+}
